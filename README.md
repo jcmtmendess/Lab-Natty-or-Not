@@ -3,19 +3,6 @@
 https://github.com/jcmtmendess/Lab-Natty-or-Not/assets/168229016/3f9c5fc5-db27-401c-8016-c6485c4773ea
 
 
-
-https://github.com/jcmtmendess/Lab-Natty-or-Not/assets/168229016/d105523e-bcb0-4af1-9722-ccc2329e73a0
-
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
 ### Objetivos
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
@@ -60,10 +47,7 @@ Today we will resolve [Issue].
 Follow the {SCRIPT} and replace the elements between [ ] for those listed above on {SUMMARY}
 Use simple analogies and hyperboles
 Make the video short and simple, with just one scene."
-
-
 Also, I've built the ChatBot itself, in a simple version, to simulate the real one, using Zapier AI.
-
 
 ## 🚀 Resultados
 Generative AI Video:
@@ -75,4 +59,3 @@ https://explanationbot-b3b94f.zapier.app
 ## 💭 Reflexão (Opcional)
 I learned how to improve the prompts to build a script for my video, Utilizing the 3R's technique was a game-changer, allowing me to build a script for the chatbot video that felt natural and engaging.. This was my first time employing this structured approach to prompt engineering, and I was pleasantly surprised by the results. While I did need to make some adjustments along the way, the 3R's framework provided a solid foundation that helped me generate ideas and refine the chatbot's dialogue. Bringing the chatbot I imagined to life with a human-sounding voice  was a particularly rewarding aspect of this project. Navigating the full lifecycle of ideation, development, and production also deepened my understanding of the complexities involved in creating AI-powered experiences. This project has been a great learning experience that has expanded my horizons. The future is bright, and I can't wait to see what I'll create next! 😄
  
-
